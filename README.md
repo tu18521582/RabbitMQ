@@ -21,4 +21,5 @@ Thành phần thực hiện việc lấy các tin từ queue về
 ## Exchange
 Nhận message từ producer và đẩy chúng đến hàng đợi dựa trên những nguyên tắc của từng loại exchange hiện tại
 
+# 
 ![](src/main/java/com/mycompany/app/image/image-demo.png)
